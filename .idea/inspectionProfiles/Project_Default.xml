@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="34">
+            <item index="0" class="java.lang.String" itemvalue="guppy3" />
+            <item index="1" class="java.lang.String" itemvalue="termcolor" />
+            <item index="2" class="java.lang.String" itemvalue="photutils" />
+            <item index="3" class="java.lang.String" itemvalue="corner" />
+            <item index="4" class="java.lang.String" itemvalue="pysynphot" />
+            <item index="5" class="java.lang.String" itemvalue="pypdf2" />
+            <item index="6" class="java.lang.String" itemvalue="emcee" />
+            <item index="7" class="java.lang.String" itemvalue="ldtk" />
+            <item index="8" class="java.lang.String" itemvalue="uncertainties" />
+            <item index="9" class="java.lang.String" itemvalue="batman-package" />
+            <item index="10" class="java.lang.String" itemvalue="scipy" />
+            <item index="11" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="12" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="13" class="java.lang.String" itemvalue="pastasoss" />
+            <item index="14" class="java.lang.String" itemvalue="applesoss" />
+            <item index="15" class="java.lang.String" itemvalue="numpy" />
+            <item index="16" class="java.lang.String" itemvalue="ray" />
+            <item index="17" class="java.lang.String" itemvalue="astroquery" />
+            <item index="18" class="java.lang.String" itemvalue="pandas" />
+            <item index="19" class="java.lang.String" itemvalue="tqdm" />
+            <item index="20" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="21" class="java.lang.String" itemvalue="bottleneck" />
+            <item index="22" class="java.lang.String" itemvalue="astropy" />
+            <item index="23" class="java.lang.String" itemvalue="more_itertools" />
+            <item index="24" class="java.lang.String" itemvalue="jwst" />
+            <item index="25" class="java.lang.String" itemvalue="xarray" />
+            <item index="26" class="java.lang.String" itemvalue="jupyter" />
+            <item index="27" class="java.lang.String" itemvalue="peakutils" />
+            <item index="28" class="java.lang.String" itemvalue="astroscrappy" />
+            <item index="29" class="java.lang.String" itemvalue="george" />
+            <item index="30" class="java.lang.String" itemvalue="h5netcdf" />
+            <item index="31" class="java.lang.String" itemvalue="exotic-ld" />
+            <item index="32" class="java.lang.String" itemvalue="ipykernel" />
+            <item index="33" class="java.lang.String" itemvalue="argparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
